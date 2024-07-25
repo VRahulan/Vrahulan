@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vishwa Rahulan</h1>
-<h3 align="center">A passionate UI/UX designer</h3>
+<h1 align="center" style="color: #ff6347;">Hi 👋, I'm Vishwa Rahulan</h1>
+<h3 align="center" style="color: #20b2aa;">A passionate UI/UX designer</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
